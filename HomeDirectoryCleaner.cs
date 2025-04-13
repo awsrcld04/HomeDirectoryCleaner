@@ -371,8 +371,6 @@ namespace HomeDirectoryCleaner
                 {
                     funcToEventLog("HomeDirectoryCleaner", "HomeDirectoryCleaner started.", 1001);
 
-                    funcProgramRegistryTag("HomeDirectoryCleaner");
-
                     HomeDirectoryParams newParams = new HomeDirectoryParams();
                     newParams.lstExclude = new List<string>();
                     newParams.lstExcludePrefix = new List<string>();
