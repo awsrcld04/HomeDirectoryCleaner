@@ -15,11 +15,6 @@ Operating System Requirements:
 Additional software requirements:
 Microsoft .NET Framework v3.5
 
-Active Directory requirements:
-One of following domain functional levels
-- Windows Server 2003 domain functional level
-- Windows Server 2008 domain functional level
-
 Additional requirements:
 Administrative access is required to perform operations by HomeDirectoryCleaner
 
